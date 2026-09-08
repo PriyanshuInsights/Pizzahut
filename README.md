@@ -1,4 +1,4 @@
-Python+Sql Project
+Python+SQL Project
 
 📌 Project Overview
 
