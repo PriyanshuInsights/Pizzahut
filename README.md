@@ -1,4 +1,4 @@
-SQL Project
+Python+Sql Project
 
 📌 Project Overview
 
@@ -100,3 +100,9 @@ Executed SQL queries to analyze the data.
 Converted query results into Pandas DataFrames.
 
 Prepared the data for visualization and analysis.
+
+👨‍💻 Author
+
+Priyanshu Gupta
+
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization | Exploratory Data Analysis
